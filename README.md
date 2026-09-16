@@ -19,7 +19,7 @@ And you can contact me here: [gallopabloj@gmail.com](mailto:gallopabloj@gmail.co
 
 ### About me:
 Studing informatic engineer in UNCa (Universidad Nacional de Catamarca). I'm working in machine learning operations, their workflows, and their software engineer to make high-performance, low-latency computer vision models for strange hardware (something weird that an electronic engineering student did) feel like i'm Dr. Grace at Hail Mary trying to operate something that Rocky did (the best book ever did amaze! amaze! amaze!).
-Also like to reed bocks. That's a new hobby, i read more than ten books the last year and their topics were like everything. Go through programming, geopolitics, economy, history, even science fiction (like Project Hail Mary or The Martian. And if you have some other like that tell me it now!!!).
+Also like to reed books. That's a new hobby, i read more than ten books the last year and their topics were like everything. Go through programming, geopolitics, economy, history, even science fiction (like Project Hail Mary or The Martian. And if you have some other like that tell me it now!!!).
 Anyway, I'm starting to use English and you can see it in my grammar too poor. Thanks for being patient with me!
 
 For the other part of the information I will continue with my native language, Spanish.
